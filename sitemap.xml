@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>http://www.future-land.net/landcloud/%e5%85%b3%e4%ba%8e%e8%bf%91%e6%9c%9f%e8%8a%82%e7%82%b9%e9%80%9f%e5%ba%a6%e7%bc%93%e6%85%a2%e7%9a%84%e5%a3%b0%e6%98%8e</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-12-02</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>http://www.future-land.net</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-12-02</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>http://www.future-land.net/landcloud/hello-world</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-12-02</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>http://www.future-land.net/%e5%8a%a8%e6%80%81</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-12-02</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>http://www.future-land.net/</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-12-02</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>http://www.future-land.net/landcore</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-12-02</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+</urlset>
